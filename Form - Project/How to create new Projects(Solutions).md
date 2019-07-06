@@ -126,8 +126,8 @@ My Visual Studio C# Sample Code
 
 
  
+<a href="https://youtu.be/O7nxjXj0niI">教學影片</a>
 
-[教學影片]: https://youtu.be/O7nxjXj0niI
 
  
 
