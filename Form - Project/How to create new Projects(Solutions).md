@@ -1,5 +1,6 @@
-# How to create new Projects(Solutions)  
-My Visual Studio C# Sample Code  
+# 建立專案（方案）
+
+How to create new Projects(Solutions)  
 
 ## 建立專案  
 

@@ -1,6 +1,6 @@
-# How to add Projects to Solutions  
-My Visual Studio C# Sample Code  
+# 新增專案到方案
 
+How to add Projects to Solutions  
 
 在方案的地方點擊滑鼠右鍵→加入
 
